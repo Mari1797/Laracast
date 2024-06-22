@@ -9,7 +9,8 @@
             display: grid;
             place-items: center;
             height: 100vh;
-            margin: 0;
+            margin: 0;ys"
+            
             font-family: sans-serif;
         }
     </style>
